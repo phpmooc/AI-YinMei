@@ -21,6 +21,10 @@
 ## Official Website
 [https://www.yinmei.vip/](https://www.yinmei.vip/#/en/)  
 
+## Project Demonstration 
+http://demo.yinmei.vip/  
+Account and password: admin
+
 ## Download the software 
 [Docker](https://hub.docker.com/r/worm128/yinmei-core) | [Windows](https://pan.baidu.com/s/1zQr_lafz5LiscHhkfSj2bw?pwd=2tep) | [Linux](https://pan.baidu.com/s/1zQr_lafz5LiscHhkfSj2bw?pwd=2tep)
 
