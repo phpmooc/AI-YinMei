@@ -19,6 +19,10 @@
 ## 官网
 https://www.yinmei.vip/  
 
+## 项目演示
+http://demo.yinmei.vip/  
+账号密码：admin
+
 ## 下载软件
 [Docker版本](https://hub.docker.com/r/worm128/yinmei-core) | [Window版本](https://pan.baidu.com/s/1zQr_lafz5LiscHhkfSj2bw?pwd=2tep) | [Linux版本](https://pan.baidu.com/s/1zQr_lafz5LiscHhkfSj2bw?pwd=2tep)
 
